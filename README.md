@@ -35,7 +35,6 @@ Column 2. Rk : team ranking
 
 Column 6. FG : Average number of field goals made per game (2-pointers or 3 pointers)
 
-Note: Make sure you don't confuse 
 
 
 
